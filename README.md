@@ -1,1 +1,2 @@
-# lumix-smart-iot-lamp
+# lumix-smart-lamp
+IED Mini Project
