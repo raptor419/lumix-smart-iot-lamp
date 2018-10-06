@@ -18,6 +18,6 @@ Harsh Bandhey
  6. Lightweight
  7. Many ways to power it
 
-![Luminox poster](https://lh5.googleusercontent.com/4Wk2mRZtUkGx3oDn24-xGTLTw2lbyyyKmh4Jg-r_a9LyYfFjYcQW4YXmnhvKxSUZI-U9IQ)
+![Luminox poster](https://i.imgur.com/q1H3FkB.jpg)
 
 For more, visit [our website.](https://sites.google.com/iiitd.ac.in/luminox/evolution)
